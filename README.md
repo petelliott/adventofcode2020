@@ -8,3 +8,4 @@ I'm doing the 2020 advent of code in a different language for each star.
 |2|[awk](2_password_philosiphy_p1.awk)|[perl](2_password_philosiphy_p2.pl)|
 |3|[pascal](3_tobbogan_trajectory_p1.pas)|[janet](3_tobbogan_trajectory_p2.janet)|
 |4|[bash](4_passport_processing_p1.sh)|[R](4_passport_processing_p2.r)|
+|5|[forth](5_binary_boarding_p1.fs)||
