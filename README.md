@@ -10,3 +10,4 @@ I'm doing the 2020 advent of code in a different language for each star.
 |4|[bash](4_passport_processing_p1.sh)|[R](4_passport_processing_p2.r)|
 |5|[forth](5_binary_boarding_p1.fs)|[C](5_binary_boarding_p2.c)|
 |6|[x86_64 asm](6_custom_customs_p1.S)|[ada](6_custom_customs_p2.adb)|
+|7|[php](7_handy_haversacks.php)||
