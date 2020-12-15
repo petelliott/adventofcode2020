@@ -14,4 +14,4 @@ I'm doing the 2020 advent of code in a different language for each star.
 |8|[kotlin](8_handheld_halting_p1.kt)|[wren](8_handheld_halting_p2.wren)|
 |9|[ruby](9_encoding_error_p1.rb)|[crystal](9_encoding_error_p2.cr)|
 |10|[io](10_adapter_array_p1.io)|[javascript](10_adapter_array_p2.js)|
-|11|[swift](11_seating_system_p1.swift)||
+|11|[swift](11_seating_system_p1.swift)|[python](11_seating_system_p2.py)|
