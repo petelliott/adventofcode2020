@@ -16,3 +16,4 @@ I'm doing the 2020 advent of code in a different language for each star.
 |10|[io](10_adapter_array_p1.io)|[javascript](10_adapter_array_p2.js)|
 |11|[swift](11_seating_system_p1.swift)|[python](11_seating_system_p2.py)|
 |12|[groovy](12_rain_risk_p1.groovy)|[dart](12_rain_risk_p2.dart)|
+|13|[haskell](13_shuttle_search_p1.hs)||
