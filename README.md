@@ -18,3 +18,4 @@ I'm doing the 2020 advent of code in a different language for each star.
 |12|[groovy](12_rain_risk_p1.groovy)|[dart](12_rain_risk_p2.dart)|
 |13|[haskell](13_shuttle_search_p1.hs)||
 |14|[clojure](14_docking_data_p1.clj)|[scala](14_docking_data_p2.scala)|
+|15|[C#](15_rambunctios_recitation_p1.cs)|[java](15_rambunctios_recitation_p2.java)|
